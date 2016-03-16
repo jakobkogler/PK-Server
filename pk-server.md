@@ -39,3 +39,16 @@ Natürlich kann man die Beispiele auch direkt auf dem Server bearbeiten. Nachdem
 
 Hauptsächlich für Windows-Benutzer, die gerne mit GUIs arbeiten. 
 Downloaden kann man WinSCP unter [https://winscp.net](https://winscp.net/). 
+
+Nach dem Installieren kommt man zu einem Fester wie diesem: 
+
+![WinSCP-Connection Window](https://github.com/jakobkogler/PK-Server/blob/master/WinSCP_connect.png)
+
+Und nach dem Eingaben der Server-Adresse, des Benutzernames und des Passwortes kommt man zu einer solchen Oberfläche: 
+
+![WinSCP-Window](https://github.com/jakobkogler/PK-Server/blob/master/WinSCP_window.png)
+
+Auf der linken Seite sieht man die Ordnerstruktur des eigenen Rechners, auf der rechten Seite die des Servers. Man kann nun z.B. auf dem Server in den Ordner `Aufgaben` wechseln und dort den Ordner `Aufgabenblatt1` downloaden. Man kann auch direkt den Ordner mit Drag and Drop auf die linke Seite ziehen. 
+
+Anschließend, nach dem Lösen der Aufgaben, kann man dann den Ordner von Links wieder nach Rechts schieben. 
+Beachtet, dass ihr den Ordner wieder an die selbe stelle kopiert, bzw. den alten Ordner überschreibt.
