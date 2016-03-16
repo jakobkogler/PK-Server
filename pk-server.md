@@ -2,13 +2,13 @@
 
 Die Adresse vom Server ist: `antigone.inflab.tuwien.ac.at`, Benutzername ist `p<Matrikelnummer>` und das Passwort habt ihr heute in der Übung angelegt. 
 
-Falls jemand noch kein Passwort angelegt hat, oder das Passwort ändern will, kann es unter  [password.inflab.tuwien.ac.at](http://password.inflab.tuwien.ac.at/) erledigen. 
+Falls jemand noch kein Passwort angelegt hat, oder das Passwort ändern will, kann man das unter  [password.inflab.tuwien.ac.at](http://password.inflab.tuwien.ac.at/) erledigen. 
 
-Ich stelle hier kurz 2 Methoden vor, wie man sich mit dem Server verbindet. 
+Ich stelle hier kurz zwei Methoden vor, wie man sich mit dem Server verbindet. 
 
 ## Mit ssh und scp
 
-Diese Methode ist hauptsächlich für Linux-User gedacht. Sollte aber auch unter Mac und Windows funktionieren. Bei Windows heißen die Befehle eventuell ein wenig anders. 
+Diese Methode ist hauptsächlich für Linux-User gedacht. Sollte aber auch unter Mac und Windows funktionieren. Unter Windows heißen die Befehle eventuell ein wenig anders. 
 
 Über das Terminal kann man sich via `ssh` mit dem Server verbinden und dort durch die Ordnerstruktur navigieren. 
 
