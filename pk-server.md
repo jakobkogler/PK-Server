@@ -52,3 +52,8 @@ Auf der linken Seite sieht man die Ordnerstruktur des eigenen Rechners, auf der 
 
 Anschließend, nach dem Lösen der Aufgaben, kann man dann den Ordner von Links wieder nach Rechts schieben. 
 Beachtet, dass ihr den Ordner wieder an die selbe stelle kopiert, bzw. den alten Ordner überschreibt.
+
+## Alternative Clients
+
+Alternativ zu WinSCP eignen sich noch [FileZilla](https://filezilla-project.org/), das Firefox Addon [FireFTP](https://addons.mozilla.org/de/firefox/addon/fireftp/) und [Cyberduck](https://cyberduck.io/?l=de) wie auch [Transmit](https://panic.com/transmit/) für Apple.
+Das Einrichten funktioniert ähnlich wie bei WinSCP.
