@@ -44,7 +44,7 @@ Nach dem Installieren kommt man zu einem Fester wie diesem:
 
 ![WinSCP-Connection Window](https://github.com/jakobkogler/PK-Server/blob/master/WinSCP_connect.png)
 
-Und nach dem Eingaben der Server-Adresse, des Benutzernames und des Passwortes kommt man zu einer solchen Oberfläche: 
+Und nach dem Eingaben der Server-Adresse (Achtung: die Server-Adresse ist `apps.inflab.tuwien.ac.at`, nicht `antigone.inflab.tuwien.ac.at` wie im Bild gezeigt!), des Benutzernames und des Passwortes kommt man zu einer solchen Oberfläche: 
 
 ![WinSCP-Window](https://github.com/jakobkogler/PK-Server/blob/master/WinSCP_window.png)
 
